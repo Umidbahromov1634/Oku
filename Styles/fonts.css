@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'IB';
+    src: url('../Fonts/Inter_18pt-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'IR';
+    src: url('../Fonts/Inter_18pt-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'RR';
+    src: url('../Fonts/Roboto_Condensed-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
